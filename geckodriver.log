@@ -1,0 +1,255 @@
+1530653961620	geckodriver	INFO	geckodriver 0.21.0
+1530653961636	geckodriver	INFO	Listening on 127.0.0.1:65519
+1530653964632	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.dYTrkkQUvqzI"
+1530653967714	Marionette	INFO	Listening on port 65530
+1530653967883	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530734917709	geckodriver	INFO	geckodriver 0.21.0
+1530734917725	geckodriver	INFO	Listening on 127.0.0.1:61440
+1530734920781	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.FOwdGe7rGbut"
+1530734923731	Marionette	INFO	Listening on port 61450
+1530734924003	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10644, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js, line 90: ReferenceError: bsResponseObj is not defined
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530735168978	geckodriver	INFO	geckodriver 0.21.0
+1530735168989	geckodriver	INFO	Listening on 127.0.0.1:61806
+1530735171978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.s1RSISQLGu5z"
+1530735174878	Marionette	INFO	Listening on port 61815
+1530735175188	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530986224943	geckodriver	INFO	geckodriver 0.21.0
+1530986224981	geckodriver	INFO	Listening on 127.0.0.1:54362
+1530986227968	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.2mmlMi6Aiw5n"
+1530986230917	Marionette	INFO	Listening on port 54373
+1530986231177	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530987113717	geckodriver	INFO	geckodriver 0.21.0
+1530987113727	geckodriver	INFO	Listening on 127.0.0.1:55672
+1530987116726	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.oABhR8qcA7Jv"
+1530987119633	Marionette	INFO	Listening on port 55688
+1530987119937	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530992824461	geckodriver	INFO	geckodriver 0.21.0
+1530992824477	geckodriver	INFO	Listening on 127.0.0.1:61947
+1530992827483	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.lSD72LXApncZ"
+1530992830358	Marionette	INFO	Listening on port 61956
+1530992830713	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1530993104926	geckodriver	INFO	geckodriver 0.21.0
+1530993104949	geckodriver	INFO	Listening on 127.0.0.1:62355
+1530993107940	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.GmI7wtD79hlX"
+1530993110719	Marionette	INFO	Listening on port 62363
+1530993111166	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+1532845026090	geckodriver	INFO	geckodriver 0.21.0
+1532845026101	geckodriver	INFO	Listening on 127.0.0.1:54033
+1532845029117	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.2U9IukzlDAEz"
+1532845032316	Marionette	INFO	Listening on port 54041
+1532845032426	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\PME\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540666170357	geckodriver	INFO	geckodriver 0.21.0
+1540666170369	geckodriver	INFO	Listening on 127.0.0.1:56464
+1540666173367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PME\\AppData\\Local\\Temp\\rust_mozprofile.GEjRR18VZK7Z"
+1540666173858	Marionette	DEBUG	Received observer notification profile-after-change
+1540666173944	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540666173965	Marionette	DEBUG	Received observer notification command-line-startup
+1540666173965	Marionette	DEBUG	Received observer notification nsPref:changed
+1540666173965	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1540666174128	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1540666174927	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1540666174927	Marionette	DEBUG	Waiting for delayed startup...
+1540666175027	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1540666175027	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1540666175028	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1540666175028	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1540666175028	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1540666175029	Marionette	DEBUG	Setting recommended pref browser.search.update to false
+1540666175029	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1540666175029	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1540666175029	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1540666175029	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1540666175030	Marionette	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1540666175030	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1540666175030	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1540666175030	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1540666175030	Marionette	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1540666175030	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1540666175030	Marionette	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1540666175031	Marionette	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1540666175031	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1540666175031	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1540666175031	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1540666175031	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1540666175031	Marionette	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1540666175031	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1540666175031	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1540666175031	Marionette	DEBUG	Setting recommended pref signon.rememberSignons to false
+1540666175064	Marionette	INFO	Listening on port 56474
+1540666175064	Marionette	DEBUG	Remote service is active
+1540666175477	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56478
+1540666175479	Marionette	TRACE	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1540666175480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540666175528	Marionette	DEBUG	[6442450945] Frame script loaded
+1540666175539	Marionette	DEBUG	[6442450945] Frame script registered
+1540666175544	Marionette	TRACE	0 <- [1,1,null,{"sessionId":"7f8e8c73-460c-4972-bc37-de2d60a32ec7","capabilities":{"browserName":"firefox","browserVersion":"63.0" ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1540666175549	Marionette	TRACE	0 -> [0,2,"WebDriver:Navigate",{"url":"https://wwwapps.ups.com/WebTracking/track"}]
+1540666175562	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1540666175994	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1540666176651	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.ups.com/track?loc=en_US&requester=WT/
+1540666178005	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.ups.com/track?loc=en_US&requester=WT/
+1540666178006	Marionette	TRACE	0 <- [1,2,null,{"value":null}]
+1540666180008	Marionette	TRACE	0 -> [0,3,"WebDriver:FindElement",{"using":"css selector","value":"[id=\"trackNums\"]"}]
+1540666180011	Marionette	TRACE	0 <- [1,3,{"error":"no such element","message":"Unable to locate element: [id=\"trackNums\"]","stacktrace":"WebDriverError@chrome: ... entError@chrome://marionette/content/error.js:388:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1540666180033	Marionette	DEBUG	Closed connection 0
+[Child 4560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1540666247856	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1540666247856	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1540666247856	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1540666247856	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1540666247856	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1540666247856	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1540666247856	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1540666247856	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1540666247857	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1540666247857	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1540666247858	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1540666247858	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1540666247858	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1540666247858	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1540666247858	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1540666247859	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1540666247859	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1540666247859	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1540666247859	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1540666247859	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1540666247859	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1540666247859	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1540666247859	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1540666247859	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1540666247859	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1540666247859	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1540666247860	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1540666247860	Marionette	INFO	Stopped listening on port 56474
+1540666247860	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
